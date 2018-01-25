@@ -1,0 +1,19 @@
+.form-control {
+	width: 50%;
+	color: teal;
+	border: 3px solid teal;
+	margin: 150px;
+	margin-left: 250px; 
+}
+.jumbotron {
+	background: url(http://i2.wp.com/nowiknow.com/quizzes/wp-content/uploads/2015/04/nyc-skyline.jpg?resize=930%2C481);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 500px;
+}
+.btn {
+	background-color: teal;
+	border-color: darkgray;
+	margin-right: 400px;
+	margin-left: 400px;
+}
